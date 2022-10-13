@@ -234,7 +234,7 @@ hr{
     font-weight: bold;
 }
 
-/* MOBILE view */
+/* MOBILE VIEW. */
 
 @media (max-width:900px) {
     .container{
